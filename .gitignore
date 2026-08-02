@@ -1,0 +1,7 @@
+venv/
+.miktex-config/
+OSUPR_Project_EN_2025_26*.pdf
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
